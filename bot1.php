@@ -36,7 +36,7 @@
 
 	if ($email) {
 		
-	$email->sendKeys('ryanzein47@yahoo.com');
+	$email->sendKeys('examplae@yahoo.com');
 	
 	}
 
@@ -46,7 +46,7 @@
 
 	if ($password) {
 	  	
-	  $password->sendKeys('Ojokdihackyorek!');
+	  $password->sendKeys('***********');
 	}
 
 	sleep(rand(3,5));
